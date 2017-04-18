@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RiteshSlider</string>
+    <string name="tv_activation_top_text_one">Exclusively Excelsior</string>
+    <string name="tv_activation_top_text_two">First Time Activation</string>
+    <string name="tv_activation_top_text_three">Please activitate your Exclusively Excelsi-</string>
+    <string name="tv_activation_top_text_four">or App using your unique member</string>
+    <string name="tv_activation_top_text_five">number or activation code.</string>
+    <string name="tv_btn_membership_number">Membership Number</string>
+    <string name="tv_btn_activation_code">Activation Code</string>
+    <string name="tv_btn_activate_now">Activate Now</string>
+</resources>
